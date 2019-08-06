@@ -1,0 +1,48 @@
+h1 {
+  font-size: 3.5vw;
+}
+
+body {
+ margin: 0 10%;
+ text-align: center;
+
+}
+
+button {
+  padding: 20%;
+  border-radius: 5%;
+  margin: 1%;
+  border: none;
+
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.game-frame{
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.pressed {
+  background-color: #FFFFFF;
+  opacity: 0.5;
+}
